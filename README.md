@@ -8,7 +8,7 @@ Infos und Links für die Region Kochelsee
 <a href='https://www.foto-webcam.eu/webcam/kochelsee/' target="_blank">
 	<img src='https://www.foto-webcam.eu/webcam/kochelsee/current/400.jpg'> 
 </a>
-
+</br>
 <a href='https://www.foto-webcam.eu/webcam/herzogstand/' target="_blank">
 	 <img src='https://www.foto-webcam.eu/webcam/herzogstand/current/400.jpg'> 
 </a>
