@@ -1,6 +1,3 @@
-# Kochel Kompakt #
-Infos und Links für die Region Kochelsee
-
 ### News ###
 * [Merkur Online](https://www.merkur.de/suche/?qr=Kochel&tt=1&tx=&sb=0&fd=)
 * [Veranstaltungskalender](http://www.kochel.de/index.php?id=0,20)
@@ -12,3 +9,14 @@ Infos und Links für die Region Kochelsee
 <a href='https://www.foto-webcam.eu/webcam/herzogstand/' target="_blank">
 	 <img src='https://www.foto-webcam.eu/webcam/herzogstand/current/400.jpg'> 
 </a>
+
+### Wassertemperaturen oberbayerischer Badeseen ###
+* [www.br.de](http://www.br.de/wetter/action/bayernwetter/badeseen.do)
+
+### Surfspots ###
+* Trimini
+  * [Webcam inkl. Wasser- und Lufttemperatur](http://www.addicted-sports.com/webcam/kochelsee/trimini/)
+  * [Spotguide (Kitesurfen)](http://www.addicted-sports.com/kitesurfen/spotguide/wiki/Kochelsee/)
+* Urfeld (Walchensee)
+  * [Webcam inkl. Wasser- und Lufttemperatur](http://www.addicted-sports.com/webcam/walchensee/urfeld/)
+  * [Spotguide (Kitesurfen)](http://www.addicted-sports.com/kitesurfen/spotguide/wiki/Walchensee/)
