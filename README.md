@@ -11,6 +11,9 @@
 	 <img src='https://www.foto-webcam.eu/webcam/herzogstand/current/400.jpg'> 
 </a>
 
+### Wetter ###
+[Zu Wetter.com](http://www.wetter.com/deutschland/kochel/DE0005655.html)
+
 ### Wassertemperaturen oberbayerischer Badeseen ###
 * [www.br.de](http://www.br.de/wetter/action/bayernwetter/badeseen.do)
 
